@@ -20,7 +20,7 @@ As we do not collect any personal information, there is no personal data to secu
 
 ### Children’s Privacy
 
-Our mobile app do not collect any personal, so no children's personal data will be collected. 
+Our mobile app do not collect any personal information, so no children's personal data will be collected. 
 
 ### Changes to Our Privacy Policy
 
